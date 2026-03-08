@@ -19,7 +19,7 @@ Buka IDE dan buat sebuah project baru dengan ketentuan seperti berikut:
  4. JDK: Amazon Correto
  5. Hilangkan centang pada bagian add sample code
  ## Contoh:
-![img.png](img.png)
+![img.png](Gambar/img.png)
  6. Buat sebuah package baru di dalam folder src dengan cara klik kanan pada folder src kemudian pilih New -> Package. Beri nama modul_1.
  7. Buat Sebuah class didalam package modul_1 dengan cara klik kanan dan pilih New -> Java Class. Beri nama HelloWorld
 ### Praktikum 1 - Hello world
@@ -37,7 +37,7 @@ Program Hello World biasanya digunakan sebagai latihan pertama untuk memahami st
           public static void main(String[] args) { System.out.println("Hello, world!"); }
           }
     ##  output
-    ![img_1.png](img_1.png)
+    ![img_1.png](Gambar/img_1.png)
 
 ### Praktikum 2 - Variabel dan Tipe Data
 #### Dasar Teori
@@ -69,7 +69,7 @@ package Praktikum_1;
             }
         }
 ## Output
-![img_2.png](img_2.png)
+![img_2.png](Gambar/img_2.png)
 ## Latihan
 Buatlah program untuk menampilkan data diri anda yang lengkap dengan attribut seperti berikut:
 Nama Lengkap, Tempat Lahir, Tanggal Lahir, Golongan Darah, Umur,
@@ -108,7 +108,7 @@ Gunakan tipe data yang tepat untuk setiap variabel.
     }
     }
 ## Output
-![img_3.png](img_3.png)
+![img_3.png](Gambar/img_3.png)
 
 ### Praktikum 3 - Operator dan Expressi
 #### Dasar Teori
@@ -133,7 +133,7 @@ Operator adalah simbol yang digunakan untuk melakukan operasi pada variabel atau
             }
         }
 ## Output
-![img_4.png](img_4.png)
+![img_4.png](Gambar/img_4.png)
  ## Latihan
 Buat program untuk menghitung luas persegi panjang (panjang * lebar)
 ## Program
@@ -153,7 +153,7 @@ Buat program untuk menghitung luas persegi panjang (panjang * lebar)
     }
     }
 ## Output
-![img_5.png](img_5.png)
+![img_5.png](Gambar/img_5.png)
 
 ### Praktikum 4 - Percabangan (If-Else dan Switch-Case)
 #### Dasar Teori
@@ -194,7 +194,7 @@ Switch-Case:
             }
         }
 ## output
-![img_6.png](img_6.png)
+![img_6.png](Gambar/img_6.png)
 ## Latihan
 Buat program untuk menentukan apakah suatu bilangan genap atau ganjil.
 package Praktikum_1.latihan;
@@ -213,7 +213,7 @@ package Praktikum_1.latihan;
             }
         }
 ## Output
-![img_7.png](img_7.png)
+![img_7.png](Gambar/img_7.png)
 ### Praktikum 5 - Perulangan (For, While, Do-While)
 #### Dasar Teori
 Perulangan digunakan untuk mengulang blok kode.
@@ -245,7 +245,7 @@ do {
     }
     }
 ## Output
-![img_8.png](img_8.png)
+![img_8.png](Gambar/img_8.png)
 ## Latihan
 Buat program untuk mencetak bilangan ganjil dari 1 hingga 20. Buat 3 program dengan menggunakan for, while, do-while.
 ## Program
@@ -289,7 +289,7 @@ package Praktikum_1.latihan;
     }
     }
 ## Output
-![img_9.png](img_9.png)
+![img_9.png](Gambar/img_9.png)
 
 ### Praktikum 6 - Practice Problem dan Solusinya
 ### Dasar teori
@@ -316,7 +316,7 @@ Praktikum ini bertujuan untuk melatih pemahaman dasar pemrograman menggunakan Ja
     }
     }
 ## Output
-![img_10.png](img_10.png)
+![img_10.png](Gambar/img_10.png)
 2. Buat sebuah class baru di dalam package Praktikum_1 dan beri nama Prima dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 ## Program
     package Praktikum_1;
@@ -335,7 +335,7 @@ Praktikum ini bertujuan untuk melatih pemahaman dasar pemrograman menggunakan Ja
     }
     }
 ## Output
-![img_11.png](img_11.png)
+![img_11.png](Gambar/img_11.png)
 3. Buat sebuah class baru di dalam package Praktikum_1 dan beri nama Segitiga dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 ## Program
     package Praktikum_1;
@@ -352,7 +352,7 @@ Praktikum ini bertujuan untuk melatih pemahaman dasar pemrograman menggunakan Ja
     }
     }
 ## Output
-![img_12.png](img_12.png)
+![img_12.png](Gambar/img_12.png)
 
 ---
 #### Analisa dan Pembahasan

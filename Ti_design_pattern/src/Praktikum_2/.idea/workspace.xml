@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fd98c3a-1001-46b5-a8da-ee9a877c59ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bagian1/PengenalanOOPdanClassObject/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian1/PengenalanOOPdanClassObject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian2/Encapsulation/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian2/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/CompositionKomposisi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/CompositionKomposisi/Mesin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/CompositionKomposisi/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/InheritancePewarisan/Kendaraan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/InheritancePewarisan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/InheritancePewarisan/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bagian3/InheritanceVSConposition/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3Bwi3j9mMT714FxHnS3H7nFaSGr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PBO3/2024573010030_design_pattern/Ti_design_pattern/src/Praktikum_2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fd98c3a-1001-46b5-a8da-ee9a877c59ae" name="Changes" comment="" />
+      <created>1775406335858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775406335858</updated>
+    </task>
+    <servers />
+  </component>
+</project>
